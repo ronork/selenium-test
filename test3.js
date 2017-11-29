@@ -1,5 +1,5 @@
 
-/*To check if the searched value is the same as what is enterd by the user*/
+/*To check Google Search Page Title*/
 var assert = require('assert'),
 test = require('selenium-webdriver/testing'),
 webdriver = require('selenium-webdriver');
